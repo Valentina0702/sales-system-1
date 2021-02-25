@@ -1,0 +1,13 @@
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.csprojAssemblyReference.cache
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfoInputs.cache
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfo.cs
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.exe
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.deps.json
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.json
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.dev.json
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\bin\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\Valentina\Documents\NOVENO SEMESTRE\Programación 3\Ventas\Ventas\obj\Debug\netcoreapp3.1\Ventas.genruntimeconfig.cache
